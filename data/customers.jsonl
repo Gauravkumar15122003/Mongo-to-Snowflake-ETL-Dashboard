@@ -1,0 +1,100 @@
+{"customer_id": "CUST0001", "name": "Diya Kumar", "email": "diyakumar@example.com", "city": "Kolkata", "signup_date": "2025-01-28T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0002", "name": "Aditya Singh", "email": "adityasingh@example.com", "city": "Mumbai", "signup_date": "2025-08-22T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0003", "name": "Arjun Roy", "email": "arjunroy@example.com", "city": "Kolkata", "signup_date": "2024-09-25T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0004", "name": "Aditya Das", "email": "adityadas@example.com", "city": "Jaipur", "signup_date": "2025-07-15T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0005", "name": "Sai Das", "email": "saidas@example.com", "city": "Jaipur", "signup_date": "2025-04-12T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0006", "name": "Kabir Bose", "email": "kabirbose@example.com", "city": "Kolkata", "signup_date": "2024-11-30T16:44:09", "preferred_category": "Toys"}
+{"customer_id": "CUST0007", "name": "Krishna Bose", "email": "krishnabose@example.com", "city": "Delhi", "signup_date": "2024-12-29T16:44:09", "preferred_category": "Sports"}
+{"customer_id": "CUST0008", "name": "Arjun Kumar", "email": "arjunkumar@example.com", "city": "Pune", "signup_date": "2024-10-29T16:44:09", "preferred_category": "Sports"}
+{"customer_id": "CUST0009", "name": "Sakshi Ghosh", "email": "sakshighosh@example.com", "city": "Lucknow", "signup_date": "2025-01-23T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0010", "name": "Ishita Chatterjee", "email": "ishitachatterjee@example.com", "city": "Jaipur", "signup_date": "2024-11-12T16:44:09", "preferred_category": "Toys"}
+{"customer_id": "CUST0011", "name": "Arjun Bose", "email": "arjunbose@example.com", "city": "Lucknow", "signup_date": "2025-03-14T16:44:09", "preferred_category": "Health"}
+{"customer_id": "CUST0012", "name": "Aditya Kumar", "email": "adityakumar@example.com", "city": "Kolkata", "signup_date": "2025-08-14T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0013", "name": "Priya Bose", "email": "priyabose@example.com", "city": "Mumbai", "signup_date": "2025-01-07T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0014", "name": "Ishaan Bose", "email": "ishaanbose@example.com", "city": "Ahmedabad", "signup_date": "2025-08-01T16:44:09", "preferred_category": "Sports"}
+{"customer_id": "CUST0015", "name": "Vivaan Ghosh", "email": "vivaanghosh@example.com", "city": "Hyderabad", "signup_date": "2024-12-26T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0016", "name": "Ishita Kumar", "email": "ishitakumar@example.com", "city": "Lucknow", "signup_date": "2025-08-01T16:44:09", "preferred_category": "Home & Kitchen"}
+{"customer_id": "CUST0017", "name": "Sai Das", "email": "saidas@example.com", "city": "Delhi", "signup_date": "2025-05-04T16:44:09", "preferred_category": "Toys"}
+{"customer_id": "CUST0018", "name": "Vihaan Das", "email": "vihaandas@example.com", "city": "Hyderabad", "signup_date": "2024-10-08T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0019", "name": "Sakshi Sharma", "email": "sakshisharma@example.com", "city": "Hyderabad", "signup_date": "2025-04-03T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0020", "name": "Arjun Das", "email": "arjundas@example.com", "city": "Lucknow", "signup_date": "2025-02-18T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0021", "name": "Diya Chatterjee", "email": "diyachatterjee@example.com", "city": "Pune", "signup_date": "2025-08-05T16:44:09", "preferred_category": "Groceries"}
+{"customer_id": "CUST0022", "name": "Vivaan Bose", "email": "vivaanbose@example.com", "city": "Delhi", "signup_date": "2025-01-14T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0023", "name": "Sai Bose", "email": "saibose@example.com", "city": "Lucknow", "signup_date": "2025-04-17T16:44:09", "preferred_category": "Health"}
+{"customer_id": "CUST0024", "name": "Ishaan Ghosh", "email": "ishaanghosh@example.com", "city": "Bengaluru", "signup_date": "2024-11-19T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0025", "name": "Kabir Kumar", "email": "kabirkumar@example.com", "city": "Kolkata", "signup_date": "2024-11-05T16:44:09", "preferred_category": "Home & Kitchen"}
+{"customer_id": "CUST0026", "name": "Diya Singh", "email": "diyasingh@example.com", "city": "Pune", "signup_date": "2025-07-12T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0027", "name": "Ishaan Roy", "email": "ishaanroy@example.com", "city": "Lucknow", "signup_date": "2025-05-07T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0028", "name": "Vihaan Sharma", "email": "vihaansharma@example.com", "city": "Mumbai", "signup_date": "2025-08-25T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0029", "name": "Priya Bose", "email": "priyabose@example.com", "city": "Hyderabad", "signup_date": "2024-11-06T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0030", "name": "Ishaan Singh", "email": "ishaansingh@example.com", "city": "Ahmedabad", "signup_date": "2024-09-11T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0031", "name": "Sai Singh", "email": "saisingh@example.com", "city": "Jaipur", "signup_date": "2024-11-03T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0032", "name": "Sakshi Das", "email": "sakshidas@example.com", "city": "Delhi", "signup_date": "2025-03-20T16:44:09", "preferred_category": "Home & Kitchen"}
+{"customer_id": "CUST0033", "name": "Sai Sharma", "email": "saisharma@example.com", "city": "Lucknow", "signup_date": "2025-02-22T16:44:09", "preferred_category": "Groceries"}
+{"customer_id": "CUST0034", "name": "Aarav Kumar", "email": "aaravkumar@example.com", "city": "Hyderabad", "signup_date": "2025-02-14T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0035", "name": "Aarav Das", "email": "aaravdas@example.com", "city": "Lucknow", "signup_date": "2024-10-20T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0036", "name": "Ishita Chatterjee", "email": "ishitachatterjee@example.com", "city": "Mumbai", "signup_date": "2025-06-09T16:44:09", "preferred_category": "Home & Kitchen"}
+{"customer_id": "CUST0037", "name": "Vivaan Chatterjee", "email": "vivaanchatterjee@example.com", "city": "Jaipur", "signup_date": "2024-12-03T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0038", "name": "Sai Roy", "email": "sairoy@example.com", "city": "Bengaluru", "signup_date": "2025-06-13T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0039", "name": "Ishita Bose", "email": "ishitabose@example.com", "city": "Pune", "signup_date": "2025-08-19T16:44:09", "preferred_category": "Sports"}
+{"customer_id": "CUST0040", "name": "Kabir Chatterjee", "email": "kabirchatterjee@example.com", "city": "Mumbai", "signup_date": "2025-01-14T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0041", "name": "Arjun Ghosh", "email": "arjunghosh@example.com", "city": "Kolkata", "signup_date": "2025-07-08T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0042", "name": "Aditya Das", "email": "adityadas@example.com", "city": "Kolkata", "signup_date": "2024-10-16T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0043", "name": "Aditya Kumar", "email": "adityakumar@example.com", "city": "Kolkata", "signup_date": "2025-02-26T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0044", "name": "Sai Das", "email": "saidas@example.com", "city": "Chennai", "signup_date": "2025-08-18T16:44:09", "preferred_category": "Groceries"}
+{"customer_id": "CUST0045", "name": "Aditya Singh", "email": "adityasingh@example.com", "city": "Lucknow", "signup_date": "2025-07-02T16:44:09", "preferred_category": "Groceries"}
+{"customer_id": "CUST0046", "name": "Aditya Chatterjee", "email": "adityachatterjee@example.com", "city": "Pune", "signup_date": "2024-12-16T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0047", "name": "Arjun Roy", "email": "arjunroy@example.com", "city": "Hyderabad", "signup_date": "2025-04-14T16:44:09", "preferred_category": "Toys"}
+{"customer_id": "CUST0048", "name": "Kabir Sharma", "email": "kabirsharma@example.com", "city": "Mumbai", "signup_date": "2024-10-11T16:44:09", "preferred_category": "Toys"}
+{"customer_id": "CUST0049", "name": "Ishita Ghosh", "email": "ishitaghosh@example.com", "city": "Mumbai", "signup_date": "2025-01-15T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0050", "name": "Aditya Chatterjee", "email": "adityachatterjee@example.com", "city": "Delhi", "signup_date": "2025-04-14T16:44:09", "preferred_category": "Home & Kitchen"}
+{"customer_id": "CUST0051", "name": "Vihaan Chatterjee", "email": "vihaanchatterjee@example.com", "city": "Bengaluru", "signup_date": "2024-10-18T16:44:09", "preferred_category": "Groceries"}
+{"customer_id": "CUST0052", "name": "Priya Kumar", "email": "priyakumar@example.com", "city": "Kolkata", "signup_date": "2025-08-09T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0053", "name": "Sakshi Sharma", "email": "sakshisharma@example.com", "city": "Mumbai", "signup_date": "2025-01-09T16:44:09", "preferred_category": "Home & Kitchen"}
+{"customer_id": "CUST0054", "name": "Ishaan Chatterjee", "email": "ishaanchatterjee@example.com", "city": "Ahmedabad", "signup_date": "2024-12-28T16:44:09", "preferred_category": "Toys"}
+{"customer_id": "CUST0055", "name": "Kriti Sharma", "email": "kritisharma@example.com", "city": "Delhi", "signup_date": "2025-03-23T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0056", "name": "Ishaan Bose", "email": "ishaanbose@example.com", "city": "Ahmedabad", "signup_date": "2025-02-03T16:44:09", "preferred_category": "Toys"}
+{"customer_id": "CUST0057", "name": "Ishita Chatterjee", "email": "ishitachatterjee@example.com", "city": "Delhi", "signup_date": "2024-12-16T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0058", "name": "Aditya Sharma", "email": "adityasharma@example.com", "city": "Lucknow", "signup_date": "2025-06-14T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0059", "name": "Ishita Ghosh", "email": "ishitaghosh@example.com", "city": "Kolkata", "signup_date": "2024-10-05T16:44:09", "preferred_category": "Health"}
+{"customer_id": "CUST0060", "name": "Kabir Singh", "email": "kabirsingh@example.com", "city": "Kolkata", "signup_date": "2025-05-28T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0061", "name": "Sakshi Singh", "email": "sakshisingh@example.com", "city": "Mumbai", "signup_date": "2025-07-11T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0062", "name": "Diya Das", "email": "diyadas@example.com", "city": "Pune", "signup_date": "2024-11-10T16:44:09", "preferred_category": "Health"}
+{"customer_id": "CUST0063", "name": "Aditya Sharma", "email": "adityasharma@example.com", "city": "Lucknow", "signup_date": "2024-10-21T16:44:09", "preferred_category": "Toys"}
+{"customer_id": "CUST0064", "name": "Diya Ghosh", "email": "diyaghosh@example.com", "city": "Chennai", "signup_date": "2024-12-23T16:44:09", "preferred_category": "Sports"}
+{"customer_id": "CUST0065", "name": "Aditya Bose", "email": "adityabose@example.com", "city": "Pune", "signup_date": "2024-11-16T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0066", "name": "Kabir Ghosh", "email": "kabirghosh@example.com", "city": "Mumbai", "signup_date": "2024-09-14T16:44:09", "preferred_category": "Groceries"}
+{"customer_id": "CUST0067", "name": "Ananya Kumar", "email": "ananyakumar@example.com", "city": "Mumbai", "signup_date": "2025-06-12T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0068", "name": "Sai Bose", "email": "saibose@example.com", "city": "Delhi", "signup_date": "2025-03-07T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0069", "name": "Kriti Das", "email": "kritidas@example.com", "city": "Hyderabad", "signup_date": "2025-02-02T16:44:09", "preferred_category": "Home & Kitchen"}
+{"customer_id": "CUST0070", "name": "Kabir Bose", "email": "kabirbose@example.com", "city": "Lucknow", "signup_date": "2025-08-10T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0071", "name": "Aarav Bose", "email": "aaravbose@example.com", "city": "Mumbai", "signup_date": "2024-11-17T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0072", "name": "Arjun Kumar", "email": "arjunkumar@example.com", "city": "Jaipur", "signup_date": "2024-11-28T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0073", "name": "Vihaan Das", "email": "vihaandas@example.com", "city": "Hyderabad", "signup_date": "2024-12-23T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0074", "name": "Sai Chatterjee", "email": "saichatterjee@example.com", "city": "Chennai", "signup_date": "2024-10-06T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0075", "name": "Diya Roy", "email": "diyaroy@example.com", "city": "Chennai", "signup_date": "2024-10-02T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0076", "name": "Krishna Singh", "email": "krishnasingh@example.com", "city": "Chennai", "signup_date": "2024-12-01T16:44:09", "preferred_category": "Groceries"}
+{"customer_id": "CUST0077", "name": "Sai Roy", "email": "sairoy@example.com", "city": "Jaipur", "signup_date": "2024-09-14T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0078", "name": "Arjun Singh", "email": "arjunsingh@example.com", "city": "Jaipur", "signup_date": "2024-09-28T16:44:09", "preferred_category": "Sports"}
+{"customer_id": "CUST0079", "name": "Ananya Singh", "email": "ananyasingh@example.com", "city": "Pune", "signup_date": "2024-11-14T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0080", "name": "Vihaan Ghosh", "email": "vihaanghosh@example.com", "city": "Kolkata", "signup_date": "2025-03-12T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0081", "name": "Diya Das", "email": "diyadas@example.com", "city": "Mumbai", "signup_date": "2025-03-10T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0082", "name": "Kriti Roy", "email": "kritiroy@example.com", "city": "Lucknow", "signup_date": "2024-11-28T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0083", "name": "Sakshi Singh", "email": "sakshisingh@example.com", "city": "Delhi", "signup_date": "2025-04-09T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0084", "name": "Vivaan Ghosh", "email": "vivaanghosh@example.com", "city": "Pune", "signup_date": "2025-08-18T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0085", "name": "Vihaan Singh", "email": "vihaansingh@example.com", "city": "Mumbai", "signup_date": "2025-03-24T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0086", "name": "Sakshi Chatterjee", "email": "sakshichatterjee@example.com", "city": "Bengaluru", "signup_date": "2024-12-21T16:44:09", "preferred_category": "Groceries"}
+{"customer_id": "CUST0087", "name": "Krishna Bose", "email": "krishnabose@example.com", "city": "Bengaluru", "signup_date": "2025-01-02T16:44:09", "preferred_category": "Electronics"}
+{"customer_id": "CUST0088", "name": "Diya Das", "email": "diyadas@example.com", "city": "Pune", "signup_date": "2025-02-25T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0089", "name": "Sakshi Kumar", "email": "sakshikumar@example.com", "city": "Chennai", "signup_date": "2025-03-08T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0090", "name": "Ishaan Ghosh", "email": "ishaanghosh@example.com", "city": "Kolkata", "signup_date": "2024-11-08T16:44:09", "preferred_category": "Books"}
+{"customer_id": "CUST0091", "name": "Vivaan Bose", "email": "vivaanbose@example.com", "city": "Kolkata", "signup_date": "2024-11-04T16:44:09", "preferred_category": "Health"}
+{"customer_id": "CUST0092", "name": "Ishaan Ghosh", "email": "ishaanghosh@example.com", "city": "Hyderabad", "signup_date": "2025-04-21T16:44:09", "preferred_category": "Health"}
+{"customer_id": "CUST0093", "name": "Sai Kumar", "email": "saikumar@example.com", "city": "Pune", "signup_date": "2025-07-02T16:44:09", "preferred_category": "Beauty"}
+{"customer_id": "CUST0094", "name": "Vihaan Sharma", "email": "vihaansharma@example.com", "city": "Pune", "signup_date": "2024-09-10T16:44:09", "preferred_category": "Automotive"}
+{"customer_id": "CUST0095", "name": "Kriti Das", "email": "kritidas@example.com", "city": "Hyderabad", "signup_date": "2025-04-18T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0096", "name": "Diya Ghosh", "email": "diyaghosh@example.com", "city": "Lucknow", "signup_date": "2025-02-17T16:44:09", "preferred_category": "Clothing"}
+{"customer_id": "CUST0097", "name": "Ishita Bose", "email": "ishitabose@example.com", "city": "Jaipur", "signup_date": "2025-02-15T16:44:09", "preferred_category": "Toys"}
+{"customer_id": "CUST0098", "name": "Krishna Roy", "email": "krishnaroy@example.com", "city": "Chennai", "signup_date": "2025-06-20T16:44:09", "preferred_category": "Home & Kitchen"}
+{"customer_id": "CUST0099", "name": "Aditya Roy", "email": "adityaroy@example.com", "city": "Pune", "signup_date": "2025-08-22T16:44:09", "preferred_category": "Home & Kitchen"}
+{"customer_id": "CUST0100", "name": "Ananya Bose", "email": "ananyabose@example.com", "city": "Pune", "signup_date": "2025-06-17T16:44:09", "preferred_category": "Electronics"}

@@ -1,0 +1,101 @@
+customer_id,name,email,city,signup_date,preferred_category
+CUST0001,Diya Kumar,diyakumar@example.com,Kolkata,2025-01-28T16:44:09,Beauty
+CUST0005,Sai Das,saidas@example.com,Jaipur,2025-04-12T16:44:09,Beauty
+CUST0004,Aditya Das,adityadas@example.com,Jaipur,2025-07-15T16:44:09,Electronics
+CUST0002,Aditya Singh,adityasingh@example.com,Mumbai,2025-08-22T16:44:09,Automotive
+CUST0007,Krishna Bose,krishnabose@example.com,Delhi,2024-12-29T16:44:09,Sports
+CUST0006,Kabir Bose,kabirbose@example.com,Kolkata,2024-11-30T16:44:09,Toys
+CUST0011,Arjun Bose,arjunbose@example.com,Lucknow,2025-03-14T16:44:09,Health
+CUST0010,Ishita Chatterjee,ishitachatterjee@example.com,Jaipur,2024-11-12T16:44:09,Toys
+CUST0013,Priya Bose,priyabose@example.com,Mumbai,2025-01-07T16:44:09,Clothing
+CUST0014,Ishaan Bose,ishaanbose@example.com,Ahmedabad,2025-08-01T16:44:09,Sports
+CUST0009,Sakshi Ghosh,sakshighosh@example.com,Lucknow,2025-01-23T16:44:09,Electronics
+CUST0012,Aditya Kumar,adityakumar@example.com,Kolkata,2025-08-14T16:44:09,Beauty
+CUST0015,Vivaan Ghosh,vivaanghosh@example.com,Hyderabad,2024-12-26T16:44:09,Books
+CUST0016,Ishita Kumar,ishitakumar@example.com,Lucknow,2025-08-01T16:44:09,Home & Kitchen
+CUST0003,Arjun Roy,arjunroy@example.com,Kolkata,2024-09-25T16:44:09,Clothing
+CUST0017,Sai Das,saidas@example.com,Delhi,2025-05-04T16:44:09,Toys
+CUST0018,Vihaan Das,vihaandas@example.com,Hyderabad,2024-10-08T16:44:09,Beauty
+CUST0019,Sakshi Sharma,sakshisharma@example.com,Hyderabad,2025-04-03T16:44:09,Books
+CUST0020,Arjun Das,arjundas@example.com,Lucknow,2025-02-18T16:44:09,Beauty
+CUST0008,Arjun Kumar,arjunkumar@example.com,Pune,2024-10-29T16:44:09,Sports
+CUST0021,Diya Chatterjee,diyachatterjee@example.com,Pune,2025-08-05T16:44:09,Groceries
+CUST0027,Ishaan Roy,ishaanroy@example.com,Lucknow,2025-05-07T16:44:09,Automotive
+CUST0022,Vivaan Bose,vivaanbose@example.com,Delhi,2025-01-14T16:44:09,Automotive
+CUST0028,Vihaan Sharma,vihaansharma@example.com,Mumbai,2025-08-25T16:44:09,Automotive
+CUST0032,Sakshi Das,sakshidas@example.com,Delhi,2025-03-20T16:44:09,Home & Kitchen
+CUST0031,Sai Singh,saisingh@example.com,Jaipur,2024-11-03T16:44:09,Books
+CUST0025,Kabir Kumar,kabirkumar@example.com,Kolkata,2024-11-05T16:44:09,Home & Kitchen
+CUST0023,Sai Bose,saibose@example.com,Lucknow,2025-04-17T16:44:09,Health
+CUST0024,Ishaan Ghosh,ishaanghosh@example.com,Bengaluru,2024-11-19T16:44:09,Automotive
+CUST0029,Priya Bose,priyabose@example.com,Hyderabad,2024-11-06T16:44:09,Books
+CUST0030,Ishaan Singh,ishaansingh@example.com,Ahmedabad,2024-09-11T16:44:09,Books
+CUST0026,Diya Singh,diyasingh@example.com,Pune,2025-07-12T16:44:09,Clothing
+CUST0033,Sai Sharma,saisharma@example.com,Lucknow,2025-02-22T16:44:09,Groceries
+CUST0035,Aarav Das,aaravdas@example.com,Lucknow,2024-10-20T16:44:09,Clothing
+CUST0036,Ishita Chatterjee,ishitachatterjee@example.com,Mumbai,2025-06-09T16:44:09,Home & Kitchen
+CUST0037,Vivaan Chatterjee,vivaanchatterjee@example.com,Jaipur,2024-12-03T16:44:09,Books
+CUST0038,Sai Roy,sairoy@example.com,Bengaluru,2025-06-13T16:44:09,Beauty
+CUST0034,Aarav Kumar,aaravkumar@example.com,Hyderabad,2025-02-14T16:44:09,Beauty
+CUST0040,Kabir Chatterjee,kabirchatterjee@example.com,Mumbai,2025-01-14T16:44:09,Beauty
+CUST0041,Arjun Ghosh,arjunghosh@example.com,Kolkata,2025-07-08T16:44:09,Automotive
+CUST0042,Aditya Das,adityadas@example.com,Kolkata,2024-10-16T16:44:09,Electronics
+CUST0043,Aditya Kumar,adityakumar@example.com,Kolkata,2025-02-26T16:44:09,Clothing
+CUST0039,Ishita Bose,ishitabose@example.com,Pune,2025-08-19T16:44:09,Sports
+CUST0044,Sai Das,saidas@example.com,Chennai,2025-08-18T16:44:09,Groceries
+CUST0045,Aditya Singh,adityasingh@example.com,Lucknow,2025-07-02T16:44:09,Groceries
+CUST0047,Arjun Roy,arjunroy@example.com,Hyderabad,2025-04-14T16:44:09,Toys
+CUST0048,Kabir Sharma,kabirsharma@example.com,Mumbai,2024-10-11T16:44:09,Toys
+CUST0049,Ishita Ghosh,ishitaghosh@example.com,Mumbai,2025-01-15T16:44:09,Beauty
+CUST0050,Aditya Chatterjee,adityachatterjee@example.com,Delhi,2025-04-14T16:44:09,Home & Kitchen
+CUST0046,Aditya Chatterjee,adityachatterjee@example.com,Pune,2024-12-16T16:44:09,Clothing
+CUST0051,Vihaan Chatterjee,vihaanchatterjee@example.com,Bengaluru,2024-10-18T16:44:09,Groceries
+CUST0053,Sakshi Sharma,sakshisharma@example.com,Mumbai,2025-01-09T16:44:09,Home & Kitchen
+CUST0052,Priya Kumar,priyakumar@example.com,Kolkata,2025-08-09T16:44:09,Automotive
+CUST0057,Ishita Chatterjee,ishitachatterjee@example.com,Delhi,2024-12-16T16:44:09,Books
+CUST0062,Diya Das,diyadas@example.com,Pune,2024-11-10T16:44:09,Health
+CUST0060,Kabir Singh,kabirsingh@example.com,Kolkata,2025-05-28T16:44:09,Clothing
+CUST0059,Ishita Ghosh,ishitaghosh@example.com,Kolkata,2024-10-05T16:44:09,Health
+CUST0054,Ishaan Chatterjee,ishaanchatterjee@example.com,Ahmedabad,2024-12-28T16:44:09,Toys
+CUST0061,Sakshi Singh,sakshisingh@example.com,Mumbai,2025-07-11T16:44:09,Clothing
+CUST0058,Aditya Sharma,adityasharma@example.com,Lucknow,2025-06-14T16:44:09,Electronics
+CUST0065,Aditya Bose,adityabose@example.com,Pune,2024-11-16T16:44:09,Books
+CUST0055,Kriti Sharma,kritisharma@example.com,Delhi,2025-03-23T16:44:09,Electronics
+CUST0056,Ishaan Bose,ishaanbose@example.com,Ahmedabad,2025-02-03T16:44:09,Toys
+CUST0063,Aditya Sharma,adityasharma@example.com,Lucknow,2024-10-21T16:44:09,Toys
+CUST0064,Diya Ghosh,diyaghosh@example.com,Chennai,2024-12-23T16:44:09,Sports
+CUST0066,Kabir Ghosh,kabirghosh@example.com,Mumbai,2024-09-14T16:44:09,Groceries
+CUST0069,Kriti Das,kritidas@example.com,Hyderabad,2025-02-02T16:44:09,Home & Kitchen
+CUST0067,Ananya Kumar,ananyakumar@example.com,Mumbai,2025-06-12T16:44:09,Beauty
+CUST0070,Kabir Bose,kabirbose@example.com,Lucknow,2025-08-10T16:44:09,Automotive
+CUST0068,Sai Bose,saibose@example.com,Delhi,2025-03-07T16:44:09,Clothing
+CUST0072,Arjun Kumar,arjunkumar@example.com,Jaipur,2024-11-28T16:44:09,Books
+CUST0074,Sai Chatterjee,saichatterjee@example.com,Chennai,2024-10-06T16:44:09,Clothing
+CUST0073,Vihaan Das,vihaandas@example.com,Hyderabad,2024-12-23T16:44:09,Books
+CUST0076,Krishna Singh,krishnasingh@example.com,Chennai,2024-12-01T16:44:09,Groceries
+CUST0071,Aarav Bose,aaravbose@example.com,Mumbai,2024-11-17T16:44:09,Books
+CUST0078,Arjun Singh,arjunsingh@example.com,Jaipur,2024-09-28T16:44:09,Sports
+CUST0080,Vihaan Ghosh,vihaanghosh@example.com,Kolkata,2025-03-12T16:44:09,Beauty
+CUST0079,Ananya Singh,ananyasingh@example.com,Pune,2024-11-14T16:44:09,Electronics
+CUST0081,Diya Das,diyadas@example.com,Mumbai,2025-03-10T16:44:09,Automotive
+CUST0075,Diya Roy,diyaroy@example.com,Chennai,2024-10-02T16:44:09,Electronics
+CUST0084,Vivaan Ghosh,vivaanghosh@example.com,Pune,2025-08-18T16:44:09,Beauty
+CUST0083,Sakshi Singh,sakshisingh@example.com,Delhi,2025-04-09T16:44:09,Electronics
+CUST0086,Sakshi Chatterjee,sakshichatterjee@example.com,Bengaluru,2024-12-21T16:44:09,Groceries
+CUST0082,Kriti Roy,kritiroy@example.com,Lucknow,2024-11-28T16:44:09,Beauty
+CUST0088,Diya Das,diyadas@example.com,Pune,2025-02-25T16:44:09,Books
+CUST0087,Krishna Bose,krishnabose@example.com,Bengaluru,2025-01-02T16:44:09,Electronics
+CUST0085,Vihaan Singh,vihaansingh@example.com,Mumbai,2025-03-24T16:44:09,Electronics
+CUST0089,Sakshi Kumar,sakshikumar@example.com,Chennai,2025-03-08T16:44:09,Automotive
+CUST0090,Ishaan Ghosh,ishaanghosh@example.com,Kolkata,2024-11-08T16:44:09,Books
+CUST0093,Sai Kumar,saikumar@example.com,Pune,2025-07-02T16:44:09,Beauty
+CUST0092,Ishaan Ghosh,ishaanghosh@example.com,Hyderabad,2025-04-21T16:44:09,Health
+CUST0091,Vivaan Bose,vivaanbose@example.com,Kolkata,2024-11-04T16:44:09,Health
+CUST0095,Kriti Das,kritidas@example.com,Hyderabad,2025-04-18T16:44:09,Clothing
+CUST0094,Vihaan Sharma,vihaansharma@example.com,Pune,2024-09-10T16:44:09,Automotive
+CUST0097,Ishita Bose,ishitabose@example.com,Jaipur,2025-02-15T16:44:09,Toys
+CUST0096,Diya Ghosh,diyaghosh@example.com,Lucknow,2025-02-17T16:44:09,Clothing
+CUST0099,Aditya Roy,adityaroy@example.com,Pune,2025-08-22T16:44:09,Home & Kitchen
+CUST0100,Ananya Bose,ananyabose@example.com,Pune,2025-06-17T16:44:09,Electronics
+CUST0098,Krishna Roy,krishnaroy@example.com,Chennai,2025-06-20T16:44:09,Home & Kitchen
+CUST0077,Sai Roy,sairoy@example.com,Jaipur,2024-09-14T16:44:09,Clothing

@@ -1,0 +1,4 @@
+pandas
+pymongo
+snowflake-connector-python
+python-dotenv
