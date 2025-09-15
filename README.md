@@ -83,7 +83,7 @@ Gaurav Kumar
 
 Data Engineering & Analytics Enthusiast
 
-GitHub: github.com/your-username
+Linkedln: https://www.linkedin.com/in/gaurav-kumar-4124732a4/
 
 License
 This project is licensed under the MIT License.
