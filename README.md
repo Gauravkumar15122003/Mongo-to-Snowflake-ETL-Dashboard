@@ -1,6 +1,6 @@
 # MongoDB to Snowflake ETL & Power BI Dashboard
 
-![Project Logo](pic/Project_Workflow.png)  
+![Project Logo](Pic/Project_Workflow.png)  
 
 ## Overview
 This project demonstrates an end-to-end **ETL pipeline** where data is extracted from **MongoDB**, transformed, and loaded into **Snowflake**. Insights from the data are visualized using **Power BI** dashboards. 
