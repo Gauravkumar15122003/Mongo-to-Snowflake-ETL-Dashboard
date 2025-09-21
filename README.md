@@ -20,11 +20,13 @@ The pipeline is designed to be simple, efficient, and scalable for retail/analyt
 ---
 
 ## Folder Structure
+```
 .
 ├── pic/ # Images used in README or dashboard
 ├── scripts/ # Python scripts for ETL (extract, transform, load)
-├── data/ # Sample datasets as a input(optional)
-├── PowerBI_Dashboard/ # Power BI files (.pbix)
+├── data/ # Sample datasets as input (optional)
+└── PowerBI_Dashboard/ # Power BI files (.pbix)
+```
 
 ## Screenshots
 ### Data Set before Processing
@@ -55,12 +57,31 @@ In this step, we performed several data cleaning operations to prepare the datas
 - **Restructuring nested data** to simplify the schema and make it easier to query.
 ![Data](Pic/DDL.png) 
 
-### Analytics Query Results in Snowflake (Snowsight)
+### Analytics Query Results in Snowflake (Snowsight) with basic Visualization
 It shows the result of an analytical query executed in **Snowflake Snowsight**.  
 The query retrieves product-level revenue data after performing transformations and loading the cleaned dataset into Snowflake tables.
 ![Data](Pic/Snowsight.png) 
+![Data](Pic/Analytics_query.png) 
 
-> Add as many screenshots from your `pic` folder as needed.  
+### Loading Data in PowerBI through Snowflake
+![Data](Pic/Data_Loading_Snowflake_to_PowerBI.png)
+
+### Data Loading in Power Query (via Power BI)
+The transformed data from Snowflake was connected to **Power BI** and loaded into **Power Query**.  
+In Power Query, we performed basic data preparation steps such as:
+- Verifying column names and data types.
+- Applying filters to remove unnecessary rows.
+- Ensuring data is ready for building dashboards and visualizations.
+![Data](Pic/Power_Query.png)
+
+### Powerbi Dashboard
+
+### Page 1
+![Data](Pic/Dashboard_1.png)
+
+### Page 2
+![Data](Pic/Dashboard_2.png)
+
 
 ---
 
@@ -98,6 +119,3 @@ Gaurav Kumar
 Data Engineering & Analytics Enthusiast
 
 Linkedln: https://www.linkedin.com/in/gaurav-kumar-4124732a4/
-
-License
-This project is licensed under the MIT License.
