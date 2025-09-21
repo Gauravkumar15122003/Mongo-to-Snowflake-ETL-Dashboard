@@ -27,9 +27,7 @@ The pipeline is designed to be simple, efficient, and scalable for retail/analyt
 ├── PowerBI_Dashboard/ # Power BI files (.pbix)
 
 ## Screenshots
-### Dashboard Overview
-![Dashboard Overview](pic/dashboard_overview.png)
-
+### Data Set before Processing
 ![Data](Pic/Data.png) 
 
 ### Sales Analysis
