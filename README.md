@@ -21,11 +21,45 @@ The pipeline is designed to be simple, efficient, and scalable for retail/analyt
 
 ## Folder Structure
 ```
-.
-├── pic/ # Images used in README or dashboard
-├── scripts/ # Python scripts for ETL (extract, transform, load)
-├── data/ # Sample datasets as input (optional)
-└── PowerBI_Dashboard/ # Power BI files (.pbix)
+MONGO2SNOWFLAKE-ETL/
+│
+├── data/                       # Data storage
+│ ├── raw/                      # Raw JSONL data from MongoDB
+│ │ ├── customers.jsonl
+│ │ ├── orders.jsonl
+│ │ ├── products.jsonl
+│ │ └── reviews.jsonl
+│ │
+│ ├── staged/                   # Transformed / Staged data for Snowflake
+│   ├── dim_customers.csv
+│   ├── dim_products.csv
+│   ├── fact_order_items.csv
+│   ├── fact_orders.csv
+│   └── fact_reviews.csv
+│
+│── customers.jsonl             #These 4 ".jsonl" files are the orginal dataset, on which we perform our task
+│── orders.jsonl
+│── products.jsonl
+│── reviews.jsonl
+│
+│
+├── scripts/                     # Python scripts for ETL (extract, transform, load)
+│ ├── extract_mongo.py           # Extract data from MongoDB
+│ ├── load_data_to_mongo.py      # Load raw data to MongoDB
+│ ├── load_to_snowflake.py       # Load staged data to Snowflake
+│ └── transform.py               # Transform raw → staged data
+│
+│
+├── sql/                         # SQL scripts for Snowflake
+│ ├── analytics.sql              # Analytical queries
+│ └── create_tables.sql          # Snowflake schema creation
+│
+├──PowerBI_Dashboard/            # Power BI files (.pbix)
+│
+├── venv/                        # Virtual environment (not uploaded to GitHub)
+├── .env                         # Environment variables (credentials, configs)
+├── Pic/                         # Images used in README or dashboard
+└── README.md                    # Project documentation
 ```
 
 ## Screenshots
