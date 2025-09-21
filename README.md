@@ -28,6 +28,7 @@ The pipeline is designed to be simple, efficient, and scalable for retail/analyt
 
 ## Screenshots
 ### Data Set before Processing
+I have a retail_db database that contains four collections: customers, orders, products, and reviews. Each collection has thousands of documents on which we are performing our tasks
 ![Data](Pic/Data.png) 
 
 ### Sales Analysis
