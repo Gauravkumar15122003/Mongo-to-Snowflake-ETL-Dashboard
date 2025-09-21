@@ -36,10 +36,10 @@ I have a retail_db database that contains four collections: customers, orders, p
 
 ### Structure of Data - Mongo Shell
 Data view in Mongo Shell, displayed in JSON format.
-![Data](Mongo_Shell.png) 
+![Data](Pic/Mongo_Shell.png) 
 
 ### How to Switch to DB, Collections & Documents through Terminal
-![Data](NoSQL_DB.png) 
+![Data](Pic/NoSQL_DB.png) 
 
 ### Database, Schema, and Table Creation in Snowflake
 It shows the creation of a database, schema, and tables in **Snowflake** to store data coming from **MongoDB**.  
@@ -53,12 +53,12 @@ In this step, we performed several data cleaning operations to prepare the datas
 - **Renaming attributes** to make them consistent and meaningful.
 - **Removing the `_id` attribute** which was not required for further processing.
 - **Restructuring nested data** to simplify the schema and make it easier to query.
-![Data](DDL.png) 
+![Data](Pic/DDL.png) 
 
 ### Analytics Query Results in Snowflake (Snowsight)
 It shows the result of an analytical query executed in **Snowflake Snowsight**.  
 The query retrieves product-level revenue data after performing transformations and loading the cleaned dataset into Snowflake tables.
-![Data](Snowsight.png) 
+![Data](Pic/Snowsight.png) 
 
 > Add as many screenshots from your `pic` folder as needed.  
 
