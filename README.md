@@ -30,6 +30,8 @@ The pipeline is designed to be simple, efficient, and scalable for retail/analyt
 ### Dashboard Overview
 ![Dashboard Overview](pic/dashboard_overview.png)
 
+![Data](Pic/Data.png) 
+
 ### Sales Analysis
 ![Sales Analysis](pic/sales_analysis.png)
 
