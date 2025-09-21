@@ -54,8 +54,9 @@ MONGO2SNOWFLAKE-ETL/
 │ ├── analytics.sql              # Analytical queries
 │ └── create_tables.sql          # Snowflake schema creation
 │
-├──PowerBI_Dashboard/            # Power BI files (.pbix)
+├──Snowflake Data Analysis.pbix  # Power BI files (.pbix)
 │
+├──requirements.txt
 ├── venv/                        # Virtual environment (not uploaded to GitHub)
 ├── .env                         # Environment variables (credentials, configs)
 ├── Pic/                         # Images used in README or dashboard
