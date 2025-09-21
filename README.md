@@ -30,7 +30,7 @@ MONGO2SNOWFLAKE-ETL/
 │ │ ├── products.jsonl
 │ │ └── reviews.jsonl
 │ │
-│ ├── staged/                   # Transformed / Staged data for Snowflake
+│ └── staged/                   # Transformed / Staged data for Snowflake
 │   ├── dim_customers.csv
 │   ├── dim_products.csv
 │   ├── fact_order_items.csv
