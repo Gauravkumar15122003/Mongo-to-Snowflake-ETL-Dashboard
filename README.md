@@ -31,21 +31,34 @@ The pipeline is designed to be simple, efficient, and scalable for retail/analyt
 I have a retail_db database that contains four collections: customers, orders, products, and reviews. Each collection has thousands of documents on which we are performing our tasks
 ![Data](Pic/Data.png) 
 
-### Sales Analysis
-![Sales Analysis](pic/sales_analysis.png)
+### Number of Records in each Documents - Mongo Compass
+![Data](Pic/Mongo_Compass.png) 
 
-### Customer Insights
-![Customer Insights](pic/customer_insights.png)
+### Structure of Data - Mongo Shell
+Data view in Mongo Shell, displayed in JSON format.
+![Data](Mongo_Shell.png) 
 
+### How to Switch to DB, Collections & Documents through Terminal
+![Data](NoSQL_DB.png) 
 
-### Dashboard Overview
-![Dashboard Overview](pic/dashboard_overview.png)
+### Database, Schema, and Table Creation in Snowflake
+It shows the creation of a database, schema, and tables in **Snowflake** to store data coming from **MongoDB**.  
+The workflow followed:
+1. **Extract:** Data is extracted from MongoDB using a Python script and stored in the **raw** layer.  
+2. **Transform:** The extracted data is cleaned and transformed using Python scripts.
+3. **Load:** The transformed data is then loaded into these **Snowflake tables** (staged layer) for further analysis.
 
-### Sales Analysis
-![Sales Analysis](pic/sales_analysis.png)
+### Data Cleaning & Transformation
+In this step, we performed several data cleaning operations to prepare the dataset for analysis, including:
+- **Renaming attributes** to make them consistent and meaningful.
+- **Removing the `_id` attribute** which was not required for further processing.
+- **Restructuring nested data** to simplify the schema and make it easier to query.
+![Data](DDL.png) 
 
-### Customer Insights
-![Customer Insights](pic/customer_insights.png)
+### Analytics Query Results in Snowflake (Snowsight)
+It shows the result of an analytical query executed in **Snowflake Snowsight**.  
+The query retrieves product-level revenue data after performing transformations and loading the cleaned dataset into Snowflake tables.
+![Data](Snowsight.png) 
 
 > Add as many screenshots from your `pic` folder as needed.  
 
